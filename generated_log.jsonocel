@@ -1,0 +1,250 @@
+{
+  "ocel:global-event": {
+    "ocel:activity": "__INVALID__"
+  },
+  "ocel:global-object": {
+    "ocel:type": "__INVALID__"
+  },
+  "ocel:global-log": {
+    "ocel:attribute-names": [],
+    "ocel:object-types": [
+      "customer"
+    ],
+    "ocel:version": "1.0",
+    "ocel:ordering": "timestamp"
+  },
+  "ocel:events": {
+    "e1": {
+      "ocel:activity": "start",
+      "ocel:timestamp": "1980-01-01T00:00:00",
+      "ocel:omap": [],
+      "ocel:vmap": {}
+    },
+    "e2": {
+      "ocel:activity": "start",
+      "ocel:timestamp": "1980-01-02T00:00:00",
+      "ocel:omap": [],
+      "ocel:vmap": {}
+    },
+    "e3": {
+      "ocel:activity": "start",
+      "ocel:timestamp": "1980-01-03T00:00:00",
+      "ocel:omap": [],
+      "ocel:vmap": {}
+    },
+    "e4": {
+      "ocel:activity": "start",
+      "ocel:timestamp": "1980-01-04T00:00:00",
+      "ocel:omap": [],
+      "ocel:vmap": {}
+    },
+    "e5": {
+      "ocel:activity": "start",
+      "ocel:timestamp": "1980-01-05T00:00:00",
+      "ocel:omap": [],
+      "ocel:vmap": {}
+    }
+  },
+  "ocel:objects": {
+    "c1": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c2": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c3": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c4": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c5": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c6": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c7": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c8": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c9": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c10": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c11": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c12": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c13": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c14": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c15": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c16": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c17": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c18": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c19": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c20": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c21": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c22": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c23": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c24": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c25": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c26": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c27": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c28": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c29": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c30": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c31": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c32": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c33": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c34": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c35": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c36": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c37": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c38": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c39": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c40": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c41": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c42": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c43": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c44": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c45": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c46": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c47": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c48": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c49": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    },
+    "c50": {
+      "ocel:type": "customer",
+      "ocel:ovmap": {}
+    }
+  }
+}
